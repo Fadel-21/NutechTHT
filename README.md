@@ -9,3 +9,5 @@ I cant figure it how to build E-Wallet, so i change it with shipping cart produc
 4. Login Auth
 5. User Auth (but there's some error)
 6. API
+7. JWT Token
+8. Redux
