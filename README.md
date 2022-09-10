@@ -11,3 +11,14 @@ I cant figure it how to build E-Wallet, so i change it with shipping cart produc
 6. API
 7. JWT Token
 8. Redux
+
+## Features
+- [x] Registrasi
+- [x] Login
+- [x] Shipping Cart Product
+- [ ] ~~Cek Saldo~~
+- [ ] ~~Top Up Saldo~~
+- [ ] ~~Transfer~~
+- [ ] ~~Riwayat Transaksi~~
+- [ ] Cek Profile (i dunno this still not working)
+- [ ] ~~Update Profile~~
