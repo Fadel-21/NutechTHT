@@ -2,6 +2,9 @@
 **Take Home Test**
 - Noted:
 I cant figure it how to build E-Wallet, so i change it with shipping cart product
+## For Login:
+### Email: fadel@gmail.com
+### Password: qwertyuiop
 - I'm using:
 1. Axios
 2. AsyncStorage
